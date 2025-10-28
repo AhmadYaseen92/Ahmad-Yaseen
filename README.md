@@ -3,8 +3,7 @@ Senior Flutter & .NET Developer | 9+ Years Experience | Clean Architecture & Sca
 
 I'm a Senior Software Developer with over 8 years of hands-on experience building cross-platform mobile and backend systems.
 I specialize in Flutter, .NET, and Clean Architecture, delivering high-performance, maintainable, and scalable applications for enterprise and government clients.
-
-
+ 
 📫 Contact
 
 📍 Amman, Jordan
