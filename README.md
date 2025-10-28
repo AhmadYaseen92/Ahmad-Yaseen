@@ -11,8 +11,7 @@ I specialize in Flutter, .NET, and Clean Architecture, delivering high-performan
 📧 ahmadyaseen092@gmail.com
 
 📞 +962796723067
-🌐 LinkedIn
- [](https://www.linkedin.com/in/ahmad-yaseen-0a9054153/ )
+
 
 🧠 About Me
 
